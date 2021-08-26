@@ -26,7 +26,3 @@
 - Can be search user by its name and work description ( case insensitive )
     - List all the Users which contains the search text in the work description or in user name
     - Should keep the order
-
-### UI Sketch
-
-<img width="708" alt="UI Sketch" src="https://user-images.githubusercontent.com/24663408/121665011-b5a83580-cac5-11eb-898f-8688785c7554.png">
